@@ -1,6 +1,10 @@
 {
     "h5": {
-        "owner/name": "kangning1206/study",
+        "owner/name": "kangning1206/templates-webpack-mobile",
+        "branch": "master"
+    },
+    "pc": {
+        "owner/name": "kangning1206/templates-webpack-pc",
         "branch": "master"
     }
 }
